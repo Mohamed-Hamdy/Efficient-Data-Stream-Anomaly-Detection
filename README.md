@@ -18,7 +18,7 @@ Python implementation for detecting anomalies in a continuous data stream. The c
 
 **Getting Started**
 
-1. **Open in Google Colab:** Click the "[project link](https://colab.research.google.com/drive/1pGM-BrqyQY9Zu-ReLxSlSvfzMZXKu3NE)" or see "Efficient_Data_Stream_Anomaly_Detection.ipynb" in files.
+1. **Open in Google Colab:** Click the "[project link](https://colab.research.google.com/drive/1pGM-BrqyQY9Zu-ReLxSlSvfzMZXKu3NE)" or see "[Project File](https://github.com/Mohamed-Hamdy/Efficient-Data-Stream-Anomaly-Detection/blob/master/Efficient_Data_Stream_Anomaly_Detection.ipynb)" in files.
 2. **Run the Cells:** Execute the cells sequentially to simulate the data, perform anomaly detection, and visualize the results.
 
 **Customization**
